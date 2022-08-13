@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'https://spiralfeed.xyz/',
+  author: 'spiralfeed',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'spiralfeed',
+  github: 'spiralfeed',
+  linkedin: 'spiralfeed',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
