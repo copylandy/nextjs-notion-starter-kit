@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'jumbo',
   domain: 'https://spiralfeed.xyz/',
   author: 'spiralfeed',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Next.js Notion',
 
   // social usernames (optional)
   twitter: 'spiralfeed',
